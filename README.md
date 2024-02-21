@@ -14,3 +14,18 @@ I set up personal objective to answer the following questions through this exerc
 
 'US Funds dataset from Yahoo Finance' - https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs/data
 
+
+### Method 
+
+* EDA on Python
+* Visualization on PowerBI 
+
+### Conclusion 
+
+* Analysis performed and provision made to extract further insights
+* Further course is proposed in terms of:
+*   Ancilary data analysis that can be performed
+*   Modeling approaches that can be used to perform predictions 
+
+
+
