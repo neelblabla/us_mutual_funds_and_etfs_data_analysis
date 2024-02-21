@@ -15,7 +15,8 @@ I study and analyze a public dataset on US Exchange Traded Funds and Mutual Fund
 ### Method 
 
 * EDA on Python
-* Visualization on PowerBI 
+* Visualization on PowerBI
+Detailed approach documented in 'approach_US_ETFs_MFs.pdf'
 
 ### Conclusion 
 
