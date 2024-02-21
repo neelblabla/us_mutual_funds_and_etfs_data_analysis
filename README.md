@@ -12,6 +12,5 @@ I set up personal objective to answer the following questions through this exerc
 
 ### Dataset 
 
-4 datasets available on US Funds dataset from Yahoo Finance (kaggle.com) were collectively analyzed.
-https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs/data
+'US Funds dataset from Yahoo Finance' - https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs/data
 
