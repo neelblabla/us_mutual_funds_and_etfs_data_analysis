@@ -2,9 +2,7 @@
 
 ### Objective 
 
-I study and analyze a public dataset on US Exchange Traded Funds and Mutual Funds. 
-
-I set up personal objective to answer the following questions through this exercise: 
+I study and analyze a public dataset on US Exchange Traded Funds and Mutual Funds by setting up objectives to answer the following questions through this exercise: 
 * How has the popularity of funds progressed over the years – overall and certain cohort based?
 * How has the financial performance of funds progressed over the years – overall and certain cohort based?
 * How are different fund performance indicators correlated, if at all?
@@ -13,7 +11,6 @@ I set up personal objective to answer the following questions through this exerc
 ### Dataset 
 
 'US Funds dataset from Yahoo Finance' - https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs/data
-
 
 ### Method 
 
@@ -24,8 +21,8 @@ I set up personal objective to answer the following questions through this exerc
 
 * Analysis performed and provision made to extract further insights
 * Further course is proposed in terms of:
-*   Ancilary data analysis that can be performed
-*   Modeling approaches that can be used to perform predictions 
+  * Ancilary data analysis that can be performed
+  * Modeling approaches that can be used to make predictions 
 
 
 
